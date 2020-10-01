@@ -1,4 +1,5 @@
-# payment-gateway-integration
+# Gateway-of-Payment
+SIMPlE STEPS TO FOLLOW:-
 simple webiste where payment gateway is integrated using instamojo test.Once the payment is done and invoice will be 
 sent to the user for the payment received.
   
